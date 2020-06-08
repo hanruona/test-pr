@@ -1,8 +1,9 @@
 # test-pr
 * shengxinjing
+* yangtao
+* motao
 * hanmingyang
 * xiaran
-* yangtao
 * huke
 * wangxinyu
 * layanxia
