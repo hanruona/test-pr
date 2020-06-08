@@ -1,5 +1,6 @@
 # test-pr
 * shengxinjing
+* hanmingyang
 * xiaran
 * yangtao
 * huke
